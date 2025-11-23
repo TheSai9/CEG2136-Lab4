@@ -1,0 +1,101 @@
+{
+	"partitions" : [
+		{
+			"name" : "Top",
+			"pins" : [
+				{
+					"name" : "DataBus[7]",
+					"strict" : false
+				},
+				{
+					"name" : "DataBus[6]",
+					"strict" : false
+				},
+				{
+					"name" : "DataBus[5]",
+					"strict" : false
+				},
+				{
+					"name" : "DataBus[4]",
+					"strict" : false
+				},
+				{
+					"name" : "DataBus[3]",
+					"strict" : false
+				},
+				{
+					"name" : "DataBus[2]",
+					"strict" : false
+				},
+				{
+					"name" : "DataBus[1]",
+					"strict" : false
+				},
+				{
+					"name" : "DataBus[0]",
+					"strict" : false
+				},
+				{
+					"name" : "MEMOUT[7]",
+					"strict" : false
+				},
+				{
+					"name" : "MEMOUT[6]",
+					"strict" : false
+				},
+				{
+					"name" : "MEMOUT[5]",
+					"strict" : false
+				},
+				{
+					"name" : "MEMOUT[4]",
+					"strict" : false
+				},
+				{
+					"name" : "MEMOUT[3]",
+					"strict" : false
+				},
+				{
+					"name" : "MEMOUT[2]",
+					"strict" : false
+				},
+				{
+					"name" : "MEMOUT[1]",
+					"strict" : false
+				},
+				{
+					"name" : "MEMOUT[0]",
+					"strict" : false
+				},
+				{
+					"name" : "SC[3]",
+					"strict" : false
+				},
+				{
+					"name" : "SC[2]",
+					"strict" : false
+				},
+				{
+					"name" : "SC[1]",
+					"strict" : false
+				},
+				{
+					"name" : "SC[0]",
+					"strict" : false
+				},
+				{
+					"name" : "clk",
+					"strict" : false
+				},
+				{
+					"name" : "step_instruction",
+					"strict" : false
+				},
+				{
+					"name" : "Auto",
+					"strict" : false
+				}
+			]
+		}
+	]
+}
