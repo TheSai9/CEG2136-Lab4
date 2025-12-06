@@ -85,11 +85,3 @@ See the lab handout for complete opcode mapping and binary/hex values.
 * Use virtual wire names liberally to keep the schematics readable and avoid spaghetti wiring.
 * If you plan to program the DE2-115 board (bonus), choose device `EP4CE115F29C7` and follow the pin assignment table from the handout.
 * The program will take ~400 clock cycles — use the simulator run-time accordingly.
-
----
-
-If you want, I can also:
-
-* generate the control-signal spreadsheet (CSV) from the Boolean expressions,
-* produce a concise lab report template with placeholders for screenshots and boolean tables,
-* or tweak the README wording for submission formatting (PDF/ZIP).
